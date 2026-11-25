@@ -1,0 +1,9 @@
+{
+  "id": "brain-graph",
+  "name": "Brain Graph",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Your vault as a glowing 3D brain: real notes and links, lit-up connections on hover, a living night sky. Click a note to open it.",
+  "author": "Second Brain Starter",
+  "isDesktopOnly": true
+}
